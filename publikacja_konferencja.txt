@@ -10,6 +10,7 @@ Dane:
 Nasze wspolne dane
 
 Analiza
+tu znajdzie sie analiza
 
 Wnioski
 (to napisze Janek)  
